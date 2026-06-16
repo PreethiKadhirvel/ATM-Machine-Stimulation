@@ -2,7 +2,7 @@ package CGPA_Calculator;
 import java.text.DecimalFormat;
 import java.util.*;
 
-public class CGPA_calci {
+public class CGPA_calci{
 	static Scanner sc = new Scanner(System.in);
 	static float[] gpa() {
 		float[] res = new float[2];
